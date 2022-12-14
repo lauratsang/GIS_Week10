@@ -9,7 +9,7 @@ import arcgis.geocoding as geocoding
 from arcgis.features import FeatureLayer, FeatureSet, FeatureCollection
 import arcgis.features.use_proximity as use_proximity
 
-my_gis = GIS('https://www.arcgis.com', 'tsang.la_NU', 'xpQcC+6XpYfmeiR', verify_cert=False, set_active=True)
+my_gis = GIS('https://www.arcgis.com', 'tsang.la_NU', 'XXXXXXXXXX', verify_cert=False, set_active=True)
 
 my_gis = GIS('home')
 
